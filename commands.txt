@@ -6,3 +6,4 @@ git add filename = lets you add files to your index
 git commit -m "message"= lets you input files into the central repository 
 git add -A = allows you to add all the files inside the local repository folder 
 git commit -a -m "message" = allows to you to commit all files at once
+git log = outputs the log for the repository
