@@ -1,0 +1,6 @@
+git init = create repository
+git remote add origin "link" = syncs central repository (github) with local repository
+git pull origin master = fetch files from master branch at central repository to local repository
+git status = tells you which files are added to index and are ready to commit
+git add = lets you add files to your index
+git commit = lets you input files into the central repository
